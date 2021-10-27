@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#label:HA
+
 
 if [ -f /etc/group ]
 then

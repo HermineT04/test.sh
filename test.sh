@@ -1,7 +1,5 @@
 #!/bin/bash
-
-
-
+#Label: main
 if [ -f /etc/group ]
 then
 echo "the file /etc/group exist"

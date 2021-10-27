@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#label:HA
+
 if [ -f /etc/group ]
 then
 echo "the file /etc/group exist"
